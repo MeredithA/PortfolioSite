@@ -1,0 +1,20 @@
+body{
+	background-color:grey;
+}
+
+h1 {
+	color:blue;
+}
+
+
+
+.boldClass{
+	font-weight: bold;
+}
+
+
+
+
+#bigID {
+	font-size: 24px;
+}
